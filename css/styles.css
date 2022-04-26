@@ -1,0 +1,102 @@
+html {
+    font-family: 'Libre Bodoni', serif;
+}
+
+header img {
+    width:100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+.cabecalho {
+    margin-bottom: 0px;
+}
+
+.main-conteiner {
+    padding: 20px;
+}
+
+h1 {
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+h3{
+    font-size: 20px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+    width: 100%;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    background: #fede67;
+    height: 30px;
+}
+
+.navlist {
+    list-style: none;
+    display: flex;
+}
+
+.navlist li{
+    letter-spacing: 5px;
+    margin-left: 90%;
+}
+
+article{
+    padding: 0px 30px;
+}
+
+article img{
+    margin-bottom: 30px;
+    max-width: 1280px;
+}
+
+ul li:hover {
+    color:#808080;
+    font-weight: bold;
+}
+
+p {
+    margin-bottom: 25px;
+    font-size: 20px;
+}
+
+ol {
+    padding: 0px 20px;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+
+
+.cognito {
+    padding: 10px !important;
+    margin: 0px 0px !important;
+    max-width: 700px;
+}
+
+footer {
+    background-color: #808080;
+    color: #fede67;
+    width: 100%;
+    height: 30px;
+    text-align: center;
+    padding: 20px 0px;
+}
